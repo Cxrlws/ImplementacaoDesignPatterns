@@ -4,5 +4,6 @@
   * Factory Methods
   * Prototype
   * Singleton
+  * Proxy
     
 - Para um melhor entendimento, é aconselhavel conferir primeiramente o código problema e depois compará-lo com o código solução.
